@@ -4,6 +4,8 @@
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
+intro-to-tensorflow/*.zip
+intro-to-tensorflow/*.pickle
 
 .ipynb_checkpoints/
 
