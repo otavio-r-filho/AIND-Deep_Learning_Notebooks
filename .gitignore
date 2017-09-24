@@ -16,3 +16,5 @@ intro-to-tensorflow/*.pickle
 
 */.floyd*
 
+
+semi-supervised/data/
