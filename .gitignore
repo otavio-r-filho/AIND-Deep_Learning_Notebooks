@@ -18,3 +18,7 @@ intro-to-tensorflow/*.pickle
 
 
 semi-supervised/data/
+
+semi-supervised/checkpoints/
+
+semi-supervised/images/
